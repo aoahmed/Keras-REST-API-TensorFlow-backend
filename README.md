@@ -15,7 +15,7 @@ To run the script
 ```
 python cnn_train.py "OWNER" "ID_NEURAL_convnet" "TRAIN_DIR"
 ```
-You can type any example you want for "OWNER" & "ID_NEURAL_convnet"
+You can type any example you want for "OWNER" & "ID_NEURAL_convnet" \n
 "TRAIN_DIR" = faces_train
 
 # Testing 
@@ -23,5 +23,5 @@ To run the script
 ```
 python cnn_test.py "OWNER" "ID_NEURAL_convnet" "TEST_DIR" "NB_CLASSES"
 ```
-"TEST_DIR" = faces_test
+"TEST_DIR" = faces_test \n
 "NB_CLASSES" = number of classes in your database, for 
