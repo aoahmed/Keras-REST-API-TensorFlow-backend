@@ -31,4 +31,4 @@ To run the server
 ```
 python server.py
 ```
-https://github.com/aoahmed/Keras-REST-API-TensorFlow-backend/blob/master/server.png
+![Screenshot](server.png)
